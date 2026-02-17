@@ -4,7 +4,7 @@ API_ID = int(os.getenv("API_ID", "36875651"))
 API_HASH = os.getenv("API_HASH", "3d373904bbb08c556daf7e1916430a02")
 
 # ⚠️ For security, better to use environment variable instead of hardcoding
-BOT_TOKEN = "8598257696:AAEv3manh2N6x2ptYYXoV-Xyv4Sy2CSo-Yg"
+BOT_TOKEN = "8515397355:AAHN8eTngxxGNp3bE8fq18K3ZY1k4o7X0EE"
 
 MONGO_URI = os.getenv("MONGO_URI", "mongodb+srv://ftm:ftm@cluster0.tseoajm.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 DB_NAME = os.getenv("DB_NAME", "devil_automation")
